@@ -39,4 +39,4 @@ for %%a in (%install%) do (
 
 )
 
-REM pause
+rem pause
